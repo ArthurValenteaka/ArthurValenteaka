@@ -1,4 +1,5 @@
-- 👋 Olá! Meu nome é Arthur Valente
+## Olá! Eu sou o Arthur Valente
+
 - 👀 Tenho interesse em trabalhar com Front-End
 - 🌱 Atualmente venho estudando o Framework Angular com muita frequencia
 - 💞️ Gostaria de participar na crianção de projetos desde a idea até o lançamento e com isso adquirir bastante experiência trabalhando em grupo
