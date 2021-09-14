@@ -7,7 +7,7 @@
 - 🧐 Sou curioso para aprender a maior quantidade de tecnologias por mais que nunca use-as de fato.
 
 <div>
-  <a href="https://github.com/arthurvaleneteaka">
+  <a href="https://github.com/arthurvalenteaka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurValenteaka&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
  
 </div>
