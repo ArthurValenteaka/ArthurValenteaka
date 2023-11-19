@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur Valente
 
-- 👀 Trabalho como Desenvolvedor JavaScript (Front-End).
+- 👀 Trabalho como Desenvolvedor Java e JavaScript.
 - 🌱 Atualmente venho estudando o Framework Angular,VueJS e ReactJS com muita frequencia, porém expertise e experiência em Angular2+
 - 📫 Me comprometo 100% com um problema quando me encaro com um, gostaria de resolver o maior número de "dor de cabeças" que se arruma quando se está programando e inventando uma funcionalidade...
 - Todo e qualquer conhecimento é bem-vindo.
